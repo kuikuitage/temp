@@ -1,0 +1,19 @@
+http://mirrors.edge.kernel.org/ubuntu/pool/universe/b/bpfcc/
+
+https://packages.ubuntu.com/bionic/all/bpfcc-tools/download
+
+
+
+apt-get install libelf-dev
+apt-get install libclang-dev
+apt-get install bison
+apt-get install flex
+apt-get install arping
+apt-get install netperf
+apt-get install iperf3
+
+
+
+python
+
+go
